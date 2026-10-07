@@ -1,0 +1,12 @@
+posts:
+  - time: "09:00"
+    topic: "Tip de Python para principiantes"
+    angle: "Un consejo práctico y específico, con tono cercano, sin emojis excesivos"
+
+  - time: "14:00"
+    topic: "Reflexión sobre construir en público"
+    angle: "Honesto y directo, como builder compartiendo su proceso"
+
+  - time: "19:00"
+    topic: "Curiosidad sobre IA aplicada"
+    angle: "Dato interesante explicado de forma simple, que enganche"

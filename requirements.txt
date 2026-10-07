@@ -1,0 +1,10 @@
+apscheduler
+tweepy
+google-genai
+python-dotenv
+pyyaml
+requests
+
+# test
+pytest
+pytest-cov

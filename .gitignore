@@ -1,0 +1,41 @@
+# Secrets / local environment
+.env
+.env.*
+!.env.example
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Python bytecode / caches
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Test & coverage output
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# Durable technical state (local runtime)
+content_bot.db
+*.db
+*.sqlite
+*.sqlite3
+
+# Runtime artifacts & audit logs
+artifacts/
+log/
+logs/
+*.log
+*.jsonl
+
+# IDE / editor / OS files
+.idea/
+.vscode/
+*.swp
+*~
+.DS_Store
+Thumbs.db
